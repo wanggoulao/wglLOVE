@@ -6,6 +6,8 @@ public class Love {
 			
 		System.out.println("I LOVE YOU");
 		System.out.println("I DONT`T KNOWN WHAT YOU SAY 2");
+		System.out.println("where you from");
+		System.out.println("I DONT`T KNOWN WHAT YOU SAY");
 	}
 
 }
